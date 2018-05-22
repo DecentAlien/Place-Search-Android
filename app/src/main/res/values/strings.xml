@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Place Search</string>
+    <string name="app_label">Places Search</string>
+    <string name="search_results_label">Search Results</string>
+    <string name="kw">Keyword</string>
+    <string name="kw_hint">Enter keyword</string>
+    <string name="cg">Category</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="categories">
+        <item>Default</item>
+        <item>Airport</item>
+        <item>Amusement Park</item>
+        <item>Aquarium</item>
+        <item>Art Gallery</item>
+        <item>Bakery</item>
+        <item>Bar</item>
+        <item>Beauty Salon</item>
+        <item>Bowling Alley</item>
+        <item>Bus Station</item>
+        <item>Cafe</item>
+        <item>Campground</item>
+        <item>Car Rental</item>
+        <item>Casino</item>
+        <item>Lodging</item>
+        <item>Movie Theater</item>
+        <item>Museum</item>
+        <item>Night Club</item>
+        <item>Park</item>
+        <item>Parking</item>
+        <item>Restaurant</item>
+        <item>Shopping Mall</item>
+        <item>Stadium</item>
+        <item>Subway Station</item>
+        <item>Taxi Stand</item>
+        <item>Train Station</item>
+        <item>Transit Station</item>
+        <item>Travel Agency</item>
+        <item>Zoo</item>
+    </string-array>
+    <string name="distance">Distance(in miles)</string>
+    <string name="dis_hint">Enter distance(default 10 miles)</string>
+    <string name="from">From</string>
+    <string name="current">Current location</string>
+    <string name="other">Other. Specify Location</string>
+    <string name="location_hint">Type in the Location</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="fetching_results">Fetching results</string>
+    <string name="fetching_details">Fetching details</string>
+    <string name="validation_err">Please fix all fields with errors</string>
+    <string name="validation_warning">Please Enter mandatory field</string>
+    <string name="ok">OK</string>
+    <string name="location_permission_msg">We use your location to find nearby places.</string>
+    <string name="location_fail">Failed to access your current location</string>
+    <string name="geocode_fail">Failed to recognize the location you typed</string>
+    <string name="no_results">No results</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="addfav">has been added to favorite</string>
+    <string name="removefav">has been removed from favorite</string>
+    <string name="fetching_next_page">Fetching next page</string>
+    <string name="title_activity_place_detail">Place Detail</string>
+    <string name="action_fav">Add to favorite</string>
+    <string name="action_share">Share with twitter</string>
+    <string name="detail_fail">Failed to get detail information</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="price">Price Level</string>
+    <string name="rating">Rating</string>
+    <string name="page">Google Page</string>
+    <string name="website">Website</string>
+    <string name="no_photos">No photos</string>
+    <string-array name="reviews">
+        <item >@string/google</item>
+        <item >@string/yelp</item>
+    </string-array>
+
+    <string-array name="orders">
+        <item>@string/default_order</item>
+        <item>@string/h_rating</item>
+        <item>@string/l_rating</item>
+        <item>@string/m_recent</item>
+        <item>@string/l_recent</item>
+    </string-array>
+
+    <string name="google">Google reviews</string>
+    <string name="yelp">Yelp reviews</string>
+    <string name="default_order">Default order</string>
+    <string name="h_rating">Highest rating</string>
+    <string name="l_rating">Lowest rating</string>
+    <string name="m_recent">Most recent</string>
+    <string name="l_recent">Least recent</string>
+
+    <string name="no_reviews">No reviews</string>
+    <string name="google_default">https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/w72-h72-p/photo.jpg</string>
+    <string name="yelp_default">https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/7e4e0dfd903f/assets/img/default_avatars/user_large_square.png</string>
+    <string name="no_favs">No favorites</string>
+    <string name="travel_mode">Travel mode</string>
+    <string-array name="travel_modes">
+        <item>Driving</item>
+        <item>Bicycling</item>
+        <item>Transit</item>
+        <item>Walking</item>
+    </string-array>
+    <string name="GOOGLE_GEO_KEY">AIzaSyBj8KdvOeNoYNzKCslbU16krUmpmiWue_c</string>
+</resources>
